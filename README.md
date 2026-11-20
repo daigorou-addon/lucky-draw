@@ -6,7 +6,7 @@
 
 ## 日本語
 
-項目を入力してスタートを押すだけで使える、10種類の抽選ツール集です。インストール不要で、PC・スマホの両方で使えます。
+項目を入力してスタートを押すだけで使える、12種類の抽選ツール集です。インストール不要で、PC・スマホの両方で使えます。
 
 すべての処理はお使いの端末内で行われます。入力内容がどこかに送信されることはありません。
 
@@ -26,6 +26,8 @@
 | ピンボール | ピンボールで決める |
 | 福引き | 抽選転筒で決める |
 | 玉落とし | 玉を落として決める |
+| ビンゴ | ビンゴマシンを回して、1〜75の番号を1つずつ引く。引いた番号は番号盤に表示され、リセットも可能（項目の入力は不要） |
+| ガチャ | ハンドルを回してカプセルを出し、開けて結果を見る |
 
 ### 共通の使い方
 
@@ -50,7 +52,7 @@ Copyright (C) 2026 daigorou-tools. All rights reserved.
 
 ## English
 
-LuckyDraw is a collection of 10 draw tools: enter your items and press start. No installation is required, and it works on both desktop and mobile.
+LuckyDraw is a collection of 12 draw tools: enter your items and press start. No installation is required, and it works on both desktop and mobile.
 
 Everything is processed on your own device. Your input is never sent anywhere.
 
@@ -70,6 +72,8 @@ Everything is processed on your own device. Your input is never sent anywhere.
 | Pinball | Let a pinball decide |
 | Prize Drum | Spin the prize drum to decide |
 | Peg Drop | Drop a ball to decide |
+| Bingo | Spin the bingo cage and draw numbers from 1 to 75 one by one. Drawn numbers are shown on a board, and it can be reset (no items needed) |
+| Gacha | Turn the handle to get a capsule, then open it to reveal the result |
 
 ### How to use
 
